@@ -1,6 +1,6 @@
 /*
 -------------------------------------------------------
-Problem: A Towering Problem
+Problem: Babelfish
 -------------------------------------------------------
 Description
 You have just moved from Waterloo to a big city. The people here speak an incomprehensible dialect of a foreign language. Fortunately, you have a dictionary to help you understand them.
