@@ -1,18 +1,22 @@
 /*
 -------------------------------------------------------
-Problem: Hello World!
+Problem: 
+-------------------------------------------------------
+Description
+
 -------------------------------------------------------
 Input
-There is no input for this problem.
+
 -------------------------------------------------------
 Output
-Output should contain one line, containing the string “Hello World!”.
+
 -------------------------------------------------------
 */
-
 #include <iostream>
 
+using namespace std;
 int main() {
-    std::cout << "Hello World!";    
+
+
     return 0;
 }
