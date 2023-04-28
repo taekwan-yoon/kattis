@@ -14,5 +14,8 @@ push:
 	git commit -m "completed a few problems"
 	git push
 
+copy:
+	cp template.cpp sample.cpp
+
 clean:
 	rm *.o sample	
