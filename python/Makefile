@@ -5,3 +5,8 @@ run:
 
 copy:
 	cp template.py sample.py
+
+push:
+	git add .
+	git commit -m "completed a few problems"
+	git push
