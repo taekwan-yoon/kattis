@@ -2,4 +2,4 @@ copy:
 	cp template.java sample.java
 
 clean:
-	rm *.class
+	rm *.class tempCodeRunnerFile.java
