@@ -20,9 +20,19 @@ Output
 using namespace std;
 int main() {
 
-    cout << pow(3.20720196137, 3.20720196137);
+    string str, pattern;
+    int count;
 
+    str = "";
 
- 
+    cin >> pattern;
+    cin >> count;
+
+    for (int i=0; i < count; i++){
+        str += pattern;
+    }
+
+    cout << str;
+
     return 0;
 }
